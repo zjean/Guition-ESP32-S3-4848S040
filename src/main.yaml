@@ -24,14 +24,14 @@ external_components:
 i18n:
   id: i18n_translations
   sources:
-    - translations/en.yaml
-    - translations/es.yaml
-    - translations/fr.yaml
-    - translations/nl.yaml
-    - translations/pl.yaml
-    - translations/ru.yaml
-    - translations/si.yaml
-    - translations/it.yaml
+    - ${base_path}translations/en.yaml
+    - ${base_path}translations/es.yaml
+    - ${base_path}translations/fr.yaml
+    - ${base_path}translations/nl.yaml
+    - ${base_path}translations/pl.yaml
+    - ${base_path}translations/ru.yaml
+    - ${base_path}translations/si.yaml
+    - ${base_path}translations/it.yaml
   default_locale: en
 
 esphome:
