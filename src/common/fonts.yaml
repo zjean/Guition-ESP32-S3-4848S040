@@ -359,32 +359,3 @@
     "\U000F0826", # home
     "\U000F1A46", # away
   ]
-
-- file: "assets/fonts/materialdesignicons-webfont.ttf"
-  id: mdi_icons_68
-  size: 68
-  bpp: 4
-  glyphs: [
-    "\U000F068A", # shield home
-    "\U000F1828", # shield moon
-    "\U000F099D", # shield lock
-    "\U000F06BB", # shield plane
-    "\U000F099E", # shield off
-    "\U000F0498", # shield
-  ]
-
-- file: "assets/fonts/materialdesignicons-webfont.ttf"
-  id: mdi_icons_72
-  size: 72
-  bpp: 4
-  glyphs: [
-    "\U000F099D", # shield lock
-  ]
-
-- file: "assets/fonts/materialdesignicons-webfont.ttf"
-  id: mdi_icons_160
-  size: 160
-  bpp: 4
-  glyphs: [
-    "\U000F1107", # socket
-  ]

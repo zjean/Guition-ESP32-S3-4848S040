@@ -12,7 +12,7 @@ humidity_entity:          "sensor.outside_humidity"
 
 
 # SETTINGS
-
+base_path:                  "" # the base path of the guition config in esphome, when not in the root folder
 secondary_language:        "ru"
 timezone:                  "Europe/Moscow"
 
