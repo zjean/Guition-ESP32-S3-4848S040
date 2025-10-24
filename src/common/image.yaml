@@ -27,7 +27,7 @@
   ########## VACUUM ###########
   #############################
 
-- file: 'assets/images/vacuum/vacuum.png'
+- file: '${base_path}assets/images/vacuum/vacuum.png'
   id: vacuum_image
   type: rgb565
   resize: 160x160
@@ -342,7 +342,7 @@
   resize: 40x60
   transparency: alpha_channel
 
-- file: 'assets/images/flags/si.png'
+- file: '${base_path}assets/images/flags/si.png'
   id: flags_si_img
   type: rgb565
   resize: 40x60
