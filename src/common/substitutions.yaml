@@ -12,7 +12,7 @@ climate_entity:     "climate.demo_template_climate"
 
 
 # SETTINGS
-
+base_path: ""
 secondary_language: "ru"
 timezone: "Europe/Moscow"
 
