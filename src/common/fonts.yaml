@@ -358,4 +358,7 @@
     "\U000F0498", # shield
     "\U000F0826", # home
     "\U000F1A46", # away
+    "\U000F040A", # play
+    "\U000F03E4", # pause
+    "\U000F04B2", # sleep
   ]
